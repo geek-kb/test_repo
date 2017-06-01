@@ -1,0 +1,7 @@
+git checkout -b new_branch
+git rebase master 
+work on files
+git add worked_files
+git commit -m "commit message"
+git rebase master 
+git push --set-upstream branch
